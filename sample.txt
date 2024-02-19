@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hi
 this is sample file
+=======
+sdbzkj
+sdnbdlkfbg
+sdbsdl
+sdjbvsdl
+
+>>>>>>> da611f632fe991c4a18b7732816c228354643560
